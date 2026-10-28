@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "edition": "Xbox Live Arcade (title 584111E9)",
+      "version": "1.0.0",
+      "xex_sha256": "39d6fb4fe8cf706de8ab4117318eff866bb1f6bd178004828a9c363de1efa6fb",
+      "game_files": [
+        {
+          "path": "ArcadeInfo.xml",
+          "size": 3932
+        },
+        {
+          "path": "AvatarAwards",
+          "size": 937984
+        },
+        {
+          "path": "ZumasRevenge_Icon.png",
+          "size": 13435
+        },
+        {
+          "path": "default.xex",
+          "size": 10530816
+        },
+        {
+          "path": "intro.wmv",
+          "size": 6741485
+        },
+        {
+          "path": "main.rsb",
+          "size": 372023296
+        }
+      ],
+      "nro": "zumasrevenge.nro",
+      "nro_sha256": "4ad10dc522998adb7b4a500ffc10295e7d9911fdd0d188e902576b8bb4101161",
+      "nro_size": 42024583
+    }
+  ]
+}

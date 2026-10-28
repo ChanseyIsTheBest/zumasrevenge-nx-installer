@@ -1,0 +1,14 @@
+# The NRO is a release asset of the zumasrevenge-nx repository; the deployment workflow downloads it.
+release/*.nro
+release/*.nro.*
+release/*.json.gz
+# made by the tests for local runs: made from the game, never committed
+release/*.mesp
+release/*.mesp.idx
+*.zip
+*.rsb
+*.pack
+*.pkg
+node_modules/
+__pycache__/
+.claude/
