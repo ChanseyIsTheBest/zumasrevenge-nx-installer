@@ -3,7 +3,7 @@
   "builds": [
     {
       "edition": "Xbox Live Arcade (title 584111E9)",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "xex_sha256": "39d6fb4fe8cf706de8ab4117318eff866bb1f6bd178004828a9c363de1efa6fb",
       "game_files": [
         {
@@ -32,8 +32,8 @@
         }
       ],
       "nro": "zumasrevenge.nro",
-      "nro_sha256": "4ad10dc522998adb7b4a500ffc10295e7d9911fdd0d188e902576b8bb4101161",
-      "nro_size": 42024583
+      "nro_sha256": "b18c473cb06664a601ea0e8426453b225f1cb8a3cc7963e7ce560f6fe7c1bd45",
+      "nro_size": 42032775
     }
   ]
 }
